@@ -2,8 +2,8 @@
 
 🤖 Robotics Engineer | Student | Specializing in Guidance, Navigation & Control
 
-I’m passionate about building autonomous systems that combine **AI**, **robotics**, and **control theory**.  
-Currently learning **ROS2**, **computer vision**, and **motion planning**.
+I’m passionate about building autonomous systems focused on exploration missions.  
+Currently learning **ROS2**, **computer vision**, **motion planning** and **control theory**.
 
 ---
 
@@ -33,6 +33,12 @@ Currently learning **ROS2**, **computer vision**, and **motion planning**.
 ### 🚀 Featured Projects
 - 🤖 [Autonomous Delivery Robot](https://github.com/SimonMartineau/rc_car_mk2)  
 - 🧭 [Swarm Robotics Competition](https://github.com/SimonMartineau/swarm-rescue)
+
+---
+
+### 📹 USV Field Project
+Watch an experiment I conducted on two USVs at the Guerledan lake in France:  
+[USVs Coupled via Virtual Attraction Points](https://youtu.be/Rt9zoN37wT0)
 
 ---
 
