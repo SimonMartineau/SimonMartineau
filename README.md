@@ -36,7 +36,7 @@ Currently learning **ROS2**, **computer vision**, **motion planning** and **cont
 
 ---
 
-### 📹 USV Field Project
+### 🌊 USV Field Project
 Watch an experiment I conducted on two USVs at the Guerledan lake in France:  
 [USVs Coupled via Virtual Attraction Points](https://youtu.be/Rt9zoN37wT0)
 
